@@ -1,0 +1,8 @@
+.btn-checkout{
+    width: 95%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 18px;
+    background-color: #FF9900;
+}

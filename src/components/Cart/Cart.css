@@ -18,3 +18,15 @@
   color: #1c2b35;
   text-align: center;
 }
+
+.btn-clear-cart{
+  width: 95%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 21px;
+  margin-top: 50px;
+  margin-bottom: 16px;
+  background-color: #FF3030;
+}
+
